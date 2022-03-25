@@ -1,0 +1,23 @@
+ARARAQUARA
+-21.826191, -48.135460 - Av Francisco Zavatti (CAIO APOLINARIO)
+-21.7865163,-48.1779601 - Anna de Oliveira Ferraz (TESTE ONE) 6.222 Km
+-21.7907275,-48.1761418 - Santander ao lado do extra(TESTE TWO) 5.761 Km
+-21.7966368,-48.1727243 - savegnago via expressa (TESTE THREE) 5.060 Km
+-21.8048951,-48.1724572 - Uniara Via Expressa (TESTE FOUR) 4.494 Km
+-21.8083588,-48.1610363 - Hyundai (Padre Jose de Anchieta) (TESTE FIVE) 3.302 Km
+-21.8175332,-48.157548 - Posto prisma (DRIVE IN) (TESTE SIX) 2.475 Km
+-21.832003,-48.1457129 - Escola Angelina Lia Rolfsen (TESTE SEVEN) 1.240 Km
+-21.778383,-48.1492315 - Sorvetao (VAZ FILHO) (TESTE EIGHT) 5.503 Km
+-21.826427, -48.137000 - R. Alaor Ribeiro (DESANTI R.12)(TESTE NINE) 0.161 Km
+-21.821817, -48.137118 - R. Joseph Sabeh Harb (IEDA)(TESTE TEN) 0.516 Km
+-21.827191, -48.134604 - R. francisco de Paula (DESANTI R.14)(CASSIA) 0.142 Km
+-21.826926, -48.135051 - r. Manoel Fernandes Cadina (DESANTI R.13)(EVERTON) 0.092 Km
+-21.826167, -48.135603 - R. Pedro prebil (DESANTI R.10) 0.015 Km
+-21.826066, -48.135465 - R. Francisco Zavatti (DESANTI) 0.014 Km
+
+
+MOTUCA
+-21.5097323,-48.152365 - Supermercado Santa Monica  (CARLOS CONTI) 35.232 Km
+-21.5126657,-48.1474747 - Posto Motuca(PIRES E PIRES) (ISABELA) 34.885 Km
+
+

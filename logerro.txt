@@ -1,0 +1,2 @@
+erro: CAUGHT EXCEPTION no arquivo: C:\wamp\www\NovaRedeSocial\classes\DB.class.php ( linha 7 ) :: IP(::1) data:02/06/17 00:40:06
+erro: CAUGHT EXCEPTION no arquivo: C:\wamp\www\NovaRedeSocial\header.php ( linha 326 ) :: IP(::1) data:19/06/17 17:25:17

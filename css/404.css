@@ -1,0 +1,75 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+@font-face{
+	font-family: DosisBook;
+	src: url('font/DosisBook.ttf');
+}
+@font-face{
+	font-family: DosisBookExtraBold;
+	src: url('font/DosisBookExtraBold.ttf');
+}
+body{	
+	font-family: "DosisBook"; 
+	background-color: #397FB8;
+    background-size:100%;
+    -webkit-background-size: cover;
+  	-moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+#conteudo404{
+	margin-top: 5%;
+}
+#conteudo404 #mensagem404{
+	background-color: #212121;
+	width: 100%;
+	height: 80px;
+}
+#conteudo404 #mensagem404 .txtMensagem{
+	font-family: "DosisBookExtraBold";
+	font-size: 30px;
+	margin-top: 10px;
+	color: #FFD659;
+}
+#conteudo404 a{
+	text-decoration: none;
+	color: #FFFFFF;
+	font-size: 15px;
+	font-family: "DosisBookExtraBold";
+}
+#conteudo404 a:hover{
+	color: #FFD659;
+	font-size: 17px;
+}
+/*ERRO 403*/
+#conteudo403{
+	margin-top: 5%;
+}
+#conteudo403 #mensagem403{
+	background-color: #212121;
+	width: 100%;
+	height: 80px;
+}
+#conteudo403 #mensagem403 .txtMensagem{
+	font-family: "DosisBookExtraBold";
+	font-size: 30px;
+	margin-top: 10px;
+	color: #FFD659;
+}
+#conteudo403 a{
+	text-decoration: none;
+	color: #FFFFFF;
+	font-size: 15px;
+	font-family: "DosisBookExtraBold";
+	margin-top: 20px;
+}
+#conteudo403 a:hover{
+	color: #FFD659;
+	font-size: 17px;
+}
+#cadeado{
+	margin-top: -110px;
+	margin-left: 890px;
+}
